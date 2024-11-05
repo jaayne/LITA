@@ -19,7 +19,7 @@ After receiving the data , and checking for duplicates then went ahead to tabula
 
 #### Data Analysis
 ###### Sales Data
-```
+```Sql
 --Checking my dataset.
 select *
 from [dbo].[Lita sales Data  Csv]
